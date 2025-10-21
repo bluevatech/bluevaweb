@@ -28,4 +28,4 @@ yarn-error.log*
 /.env.*
 
 # broken?
-hemes/blowfish/exampleSite/content/examples/*.it.md
+themes/blowfish/exampleSite/content/examples/_index.it.md
