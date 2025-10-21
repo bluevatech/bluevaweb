@@ -9,4 +9,7 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-logo = "logo_profile.png"
+logo = "logo_v0.png"
+
+["params.author"]
+image = "logo_profile.png"
