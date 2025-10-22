@@ -1,3 +1,5 @@
+/* Fonts */
+
 @font-face {
     font-family: 'font';
     src: url('/fonts/Gyrotrope-ExtraBold.otf') format('opentype');
@@ -6,4 +8,7 @@
 html {
     font-family: 'font';
 }
-   
+
+/* 'Author' section */
+
+
