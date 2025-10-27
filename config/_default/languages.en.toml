@@ -11,5 +11,10 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "logo_v0.png"
 
+[[params.author.links]]
+email = "mailto:info@bluevatech.com"
+
 ["params.author"]
 image = "logo_profile.png"
+email = "info@bluevatech.com"
+headline = "Please send us an email for more information."
