@@ -10,6 +10,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "logo_v0.png"
+copyright = "&copy;{ year } Blueva Technologies, LLC"
 
 [[params.author.links]]
 email = "mailto:info@bluevatech.com"
@@ -18,3 +19,4 @@ email = "mailto:info@bluevatech.com"
 image = "logo_profile.png"
 email = "info@bluevatech.com"
 headline = "Please send us an email for more information."
+
